@@ -1,5 +1,8 @@
 _repo: The-Journal-of-the-American-Irish-Historical-Society-Vol-VII_66207
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66207-h/images/cover.jpg
 creator:
   editor:
     agent_name: Murray, Thomas Hamilton
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '48747'
     url: http://www.gutenberg.org/2009/agents/48747
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66207#The-Journal-of-the-American-Irish-Historical-Society-Vol-VII
 gutenberg_issued: '2021-09-02'
 identifiers:
   gutenberg: '66207'
